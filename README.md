@@ -1,16 +1,16 @@
-**Iniciar el py:**
+### Iniciar el py:
 npm init --yes
 
-**Instalar dependencias:**
+### Instalar dependencias:
 npm i express sqlite3 sequelize
 
-**Para que se compile y corra cada vez que guardo el codigo:**
+### Para que se compile y corra cada vez que guardo el codigo:
 npm i nodemon -D
 
-**Para estructurar el proyecto:**
+### Para estructurar el proyecto:
 npm i consign
 
-**Correr el proyecto (fase de desarrollo):**
+### Correr el proyecto (fase de desarrollo):
 npm run dev
 
 
